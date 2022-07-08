@@ -1,0 +1,1 @@
+print("Primeira aula sobre a linguagem Python")
