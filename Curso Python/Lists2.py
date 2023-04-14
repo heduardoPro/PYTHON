@@ -32,3 +32,6 @@ listaC = listaA + listaB
 print(listaC)
 listaA.extend(listaB) 
 print(listaA)
+
+listaA = listaB.copy()
+print(listaA)
