@@ -43,6 +43,8 @@ cursor.execute(
     'VALUES '
     '(?, ?)' #BINDINGS
     )
+#CRUD - CREATE READ UPDATE DELETE
+#SQL -  INSERT SELECT UPDATE DELETE
 
 conection.commit()
 
